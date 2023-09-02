@@ -1,0 +1,1 @@
+print("Livghit configs loaded !")
